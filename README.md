@@ -1,8 +1,8 @@
 # sales-report
 
-Design and implement a REST API around the daily report homework.
+#Design and implement a REST API around the daily report homework.
 
-You'll need to handle 3 operations:
+#You'll need to handle 3 operations:
 
 1. Register a purchase (City, Store, Purchase Id, Amount)
 
@@ -17,7 +17,7 @@ You'll need to handle 3 operations:
   },
   ...
 ]
-3. Generate cities report - return JSON report with the following format:
+#3. Generate cities report - return JSON report with the following format:
 
 [
   {
