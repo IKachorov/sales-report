@@ -1,0 +1,9 @@
+Endpoints:
+
+GET /reports - reading all reports
+
+POST /reports - creating sale report, also creating reports by stores and cities
+
+GET /cityreports - reading the reports by cities
+
+GET /storereports - reading the reports by stores
